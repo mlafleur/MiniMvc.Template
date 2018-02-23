@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication2.Controllers
+namespace MiniMvc.Controllers
 {
     public class HomeController : Controller
     {
